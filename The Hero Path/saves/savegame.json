@@ -1,0 +1,262 @@
+{
+  "player": {
+    "worldX": 2119,
+    "worldY": 820,
+    "health": 13,
+    "maxHealth": 15,
+    "weaponName": "Argonaut hero\u0027s sword",
+    "mapIndex": 0,
+    "exp": 1,
+    "level": 1
+  },
+  "objects": [
+    {
+      "type": "Green Slime",
+      "worldX": 1116,
+      "worldY": 690,
+      "active": true
+    },
+    {
+      "type": "Green Slime",
+      "worldX": 1424,
+      "worldY": 822,
+      "active": true
+    },
+    {
+      "type": "RedSlime",
+      "worldX": 1833,
+      "worldY": 823,
+      "active": true
+    },
+    {
+      "type": "RedSlime",
+      "worldX": 2584,
+      "worldY": 1074,
+      "active": true
+    },
+    {
+      "type": "Green Slime",
+      "worldX": 3197,
+      "worldY": 859,
+      "active": true
+    },
+    {
+      "type": "RedSlime",
+      "worldX": 3429,
+      "worldY": 513,
+      "active": true
+    },
+    {
+      "type": "RedSlime",
+      "worldX": 1288,
+      "worldY": 1513,
+      "active": true
+    },
+    {
+      "type": "RedSlime",
+      "worldX": 1862,
+      "worldY": 1762,
+      "active": true
+    },
+    {
+      "type": "RedSlime",
+      "worldX": 3208,
+      "worldY": 1461,
+      "active": true
+    },
+    {
+      "type": "Green Slime",
+      "worldX": 3501,
+      "worldY": 1414,
+      "active": true
+    },
+    {
+      "type": "RedSlime",
+      "worldX": 1784,
+      "worldY": 1712,
+      "active": true
+    },
+    {
+      "type": "RedSlime",
+      "worldX": 2105,
+      "worldY": 1727,
+      "active": true
+    },
+    {
+      "type": "RedSlime",
+      "worldX": 2507,
+      "worldY": 1975,
+      "active": true
+    },
+    {
+      "type": "RedSlime",
+      "worldX": 3107,
+      "worldY": 1762,
+      "active": true
+    },
+    {
+      "type": "RedSlime",
+      "worldX": 3649,
+      "worldY": 1975,
+      "active": true
+    },
+    {
+      "type": "Green Slime",
+      "worldX": 852,
+      "worldY": 2255,
+      "active": true
+    },
+    {
+      "type": "Green Slime",
+      "worldX": 912,
+      "worldY": 2374,
+      "active": true
+    },
+    {
+      "type": "Green Slime",
+      "worldX": 1431,
+      "worldY": 2287,
+      "active": true
+    },
+    {
+      "type": "RedSlime",
+      "worldX": 2353,
+      "worldY": 1911,
+      "active": true
+    },
+    {
+      "type": "Green Slime",
+      "worldX": 2212,
+      "worldY": 2460,
+      "active": true
+    },
+    {
+      "type": "Green Slime",
+      "worldX": 3065,
+      "worldY": 2031,
+      "active": true
+    },
+    {
+      "type": "Green Slime",
+      "worldX": 3663,
+      "worldY": 2287,
+      "active": true
+    },
+    {
+      "type": "RedSlime",
+      "worldX": 935,
+      "worldY": 2481,
+      "active": true
+    },
+    {
+      "type": "RedSlime",
+      "worldX": 1342,
+      "worldY": 2740,
+      "active": true
+    },
+    {
+      "type": "Green Slime",
+      "worldX": 2169,
+      "worldY": 2736,
+      "active": true
+    },
+    {
+      "type": "RedSlime",
+      "worldX": 2569,
+      "worldY": 2641,
+      "active": true
+    },
+    {
+      "type": "RedSlime",
+      "worldX": 3023,
+      "worldY": 2680,
+      "active": true
+    },
+    {
+      "type": "RedSlime",
+      "worldX": 3667,
+      "worldY": 2875,
+      "active": true
+    },
+    {
+      "type": "RedSlime",
+      "worldX": 873,
+      "worldY": 3015,
+      "active": true
+    },
+    {
+      "type": "Green Slime",
+      "worldX": 1300,
+      "worldY": 3452,
+      "active": true
+    },
+    {
+      "type": "Green Slime",
+      "worldX": 1596,
+      "worldY": 3068,
+      "active": true
+    },
+    {
+      "type": "Green Slime",
+      "worldX": 2167,
+      "worldY": 2922,
+      "active": true
+    },
+    {
+      "type": "Green Slime",
+      "worldX": 3311,
+      "worldY": 2910,
+      "active": true
+    },
+    {
+      "type": "Green Slime",
+      "worldX": 3332,
+      "worldY": 2978,
+      "active": true
+    },
+    {
+      "type": "Green Slime",
+      "worldX": 736,
+      "worldY": 3406,
+      "active": true
+    },
+    {
+      "type": "RedSlime",
+      "worldX": 1489,
+      "worldY": 3207,
+      "active": true
+    },
+    {
+      "type": "Green Slime",
+      "worldX": 2067,
+      "worldY": 3451,
+      "active": true
+    },
+    {
+      "type": "Green Slime",
+      "worldX": 2461,
+      "worldY": 4091,
+      "active": true
+    },
+    {
+      "type": "RedSlime",
+      "worldX": 3060,
+      "worldY": 3538,
+      "active": true
+    },
+    {
+      "type": "RedSlime",
+      "worldX": 3492,
+      "worldY": 3538,
+      "active": true
+    },
+    {
+      "type": "Green Slime",
+      "worldX": 3328,
+      "worldY": 3918,
+      "active": true
+    }
+  ],
+  "mapIndex": 0,
+  "mapPath": "map0"
+}
